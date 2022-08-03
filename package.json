@@ -1,0 +1,26 @@
+{
+  "name": "panacea_police_cm",
+  "version": "1.0.0",
+  "description": "A policemen countermeasure implementation",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctlup/panacea_police_cm.git"
+  },
+  "author": "Artsiom Sauchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctlup/panacea_police_cm/issues"
+  },
+  "homepage": "https://github.com/ctlup/panacea_police_cm#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
