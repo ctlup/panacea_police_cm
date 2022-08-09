@@ -61,23 +61,3 @@ div.tile-description-container div:nth-child(2) {
     padding-left: 10px;
     
 }
-
-img.centered_image {
-    display: block;
-    margin: 10px auto;
-}
-.img-title {
-    margin: 15px auto
-}
-.title {
-    margin: 15px auto;
-    
-}
-h4.title {
-    font-weight: bold;
-}
-
-div.tile-row {
-
-    padding-top: 40px;
-}
