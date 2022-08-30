@@ -13,6 +13,7 @@
 
 .main {
     margin-top: 30px;
+    margin-bottom: 60px;
 }
 .tile > img {
     max-width: 100%;
@@ -80,4 +81,16 @@ h4.title {
 div.tile-row {
 
     padding-top: 40px;
+}
+
+.warning-box {
+    display: inline-block;
+    padding: 7px 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    
+}
+th.black {
+    color: whitesmoke;
+    background-color: #4a4a4a;
 }
